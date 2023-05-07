@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(#b8307c, #4a3f6d);
+    background-image: linear-gradient(#cda82f, #f34b73);
     overflow: hidden;
 }
 
@@ -86,7 +86,7 @@ body {
     height: 50px;
     text-align: center;
     color: #fff;
-    background-color: #46406c;
+    background-color: #c81717;
     outline: none;
     border: none;
     border-radius: 5px;
